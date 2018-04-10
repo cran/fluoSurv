@@ -1,0 +1,17 @@
+ed902502404ec82ca1dca8700d15f2d9 *DESCRIPTION
+8a4f0b9261482413bfe871b1129dcb06 *NAMESPACE
+a304be51e2312d191a5f021e162d93f5 *R/data.R
+b3f8471c53d74ad74ca7b86ac9370f9f *R/src_routine_chargement_cinetique.R
+1bc12647e8d9192ce0811dad07f07f36 *R/src_routine_estimation_t_mort.R
+18e916f3d47092df6641d2d1665bec4a *data/datalist
+45e7b624df4339564205c771863077b6 *data/galleria.RData
+d2ce1b2d8377dcb08494cfb3dde81c6d *data/setup.RData
+09c863a8f8a25796e2cb3cb72c0fb180 *inst/extdata/kinetics_xenorhabdus_galleria.txt
+335b1ed698dffbfbca374077421a49ce *man/estimate.LT.Rd
+208b713c7be409a6457906ddb4711a97 *man/estimate.offset.Rd
+b255954305cad507d0d5ccc7beb1fadf *man/extract.well.Rd
+99c7203ec76c8381dc20d5aa2b492991 *man/fluoSurv.Rd
+bd29d64bdc8880f8c61367355116f666 *man/galleria.Rd
+0abeadc5d0801fa8821ca3d816138be7 *man/read.kinetic.Rd
+5f4ac1f792eeddf84ebae954fe9c2157 *man/setup.Rd
+a59fd5d4c752b5a7d4f9c19ef4a44c85 *man/when.threshold.Rd
